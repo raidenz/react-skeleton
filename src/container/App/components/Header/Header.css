@@ -1,0 +1,19 @@
+#header{
+  width: 100%;
+  background-color: #eaeaea;
+  height: 60px;
+}
+.nav{
+  float: right;
+}
+.nav ul{
+  line-height: 60px;
+}
+.nav li{
+  display: inline-block;
+  margin-right: 10px;
+}
+.nav a{
+  color: #333;
+  text-decoration: none;
+}

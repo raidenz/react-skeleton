@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.content{
+  min-height: 500px;
+  padding: 40px 0;
+}
