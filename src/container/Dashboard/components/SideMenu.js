@@ -13,7 +13,7 @@ const SideMenu = (props) => {
     <ul>
       {
         roleMenus().map((menu, i) => (
-          <SideMenuItem menu={menu} />
+          <SideMenuItem key={i} menu={menu} />
         ))
       }
     </ul>
